@@ -445,8 +445,6 @@ namespace ReliefGoodsTrackingDesign_VILLANUEVA
         private DateTimePicker dtpReceived;
         private GroupBox groupBox3;
 
-        // --- I REMOVED THE UNUSED 'textBox1', 'textBox2', 'label1', 'label2' ---
-        // --- AND ADDED THE CORRECT DECLARATIONS BELOW: ---
         private Label lblBarangay;
         private Label lblStatus;
 
@@ -468,4 +466,5 @@ namespace ReliefGoodsTrackingDesign_VILLANUEVA
         private DataGridViewTextBoxColumn colBarangay;
         private DataGridViewTextBoxColumn colStatus;
     }
+
 }
